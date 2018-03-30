@@ -3,3 +3,5 @@ To find the Controller account ID using the REST API, use one of the following U
 SaaS: https://<<accountName>>.saas.appdynamics.com/controller/api/accounts/myaccount
 On-Premise: http[s]://<<hostname>>/controller/api/accounts/myaccount
 ----------------------------------------------------------------------------------
+
+Rest:https://docs.appdynamics.com/display/PRO41/Use+the+AppDynamics+REST+API
