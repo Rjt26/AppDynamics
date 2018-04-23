@@ -1,0 +1,16 @@
+
+AppDynamics Web End User Experience Monitoring (Web EUM) allows you to see how your web application is performing from the point of view of your end user.  You can answer questions like:
+
+Which 1st or 3rd party Ajax or iframe calls are slowing down page load time?
+How does server performance impact end user experience in aggregate or in individual cases?
+You can drill into the data to explore how users experience your application in their Web browsers.
+
+----------------------
+Using Web EUM to Monitor your Application
+Web EUM offers multiple ways to look at your data, in real time.  You can: 
+>>Understand and improve your web page's performance
+>>Know how your pages, Ajax requests, and iframes are performing over time. See The Pages and Ajax Requests View.
+>>Gain insight into individual requests, with detailed charts on how your pages, Ajax requests, and iframes load and build in your end user's browsers, with links, if enabled, to reports on server-side performance.  See Browser Snapshots.
+>>Find your worst performing pages by multiple common metrics.
+>>Reduce errors
+>>Learn which pages are loading with JavaScript errors, and the script file and line number that are creating the problem. 
